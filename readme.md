@@ -183,4 +183,9 @@ int main(int argc, char **argv)
 ## 5. 感谢
 
 1. 该库移植于https://github.com/skeeto/optparse.
-2. 感谢skeeto. 本移植是修改了部分原作者的代码针对RTT在线包实现的版本, 该仓库保留原作者的许可声明! 具体原作者许可请查看https://github.com/skeeto/optparse/blob/master/UNLICENSE.
+2. 感谢skeeto. 本移植是修改了部分原作者的代码针对RTT在线包实现的版本, 该仓库保留原作者的许可声明! 具体原作者许可请查看 https://github.com/skeeto/optparse/blob/master/UNLICENSE.
+
+## 6. 仓库
+
+https://github.com/RT-Thread-packages/optparse
+
